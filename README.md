@@ -24,7 +24,8 @@ he is presented with a 5-day forecast that displays the date, an icon representa
 
 * The URL of the deployed application:
 
-* The URL of the GitHub repository:
+* The URL of the GitHub repository:https://github.com/Ranjini2020/Team-Weather-Dashboard
+
 
 
 
