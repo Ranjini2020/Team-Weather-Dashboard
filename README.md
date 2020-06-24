@@ -22,7 +22,7 @@ The UV index is presented with a color that indicates whether the conditions are
 WHEN the user view future weather conditions for that city, 
 he is presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, and the humidity
 
-* The URL of the deployed application:
+* The URL of the deployed application:https://ranjini2020.github.io/Team-Weather-Dashboard/
 
 * The URL of the GitHub repository:https://github.com/Ranjini2020/Team-Weather-Dashboard
 
